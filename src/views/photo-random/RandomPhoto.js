@@ -13,7 +13,7 @@ function RandomPhoto() {
         <div className='photo-fram'>
             <img
                 src={url}
-                alt='Random picture from picsum'
+                alt='From picsum'
             />
             <br />
             <div className='btn-div'>

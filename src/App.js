@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import RandomPhoto from './views/photo-random/RandomPhoto';
 import {Route, Routes, Link} from 'react-router-dom';
